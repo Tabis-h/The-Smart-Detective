@@ -1,0 +1,4 @@
+repository "The Smart Detective@tabissh@cloud"
+  path "/"
+    br "/main"
+    co "/main"
